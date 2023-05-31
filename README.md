@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vannthey&label=Profile%20views&color=0e75b6&style=flat" alt="vannthey" /> </p>
 
-- 🔭 I’m currently working on **Mobile Application for Information Dissemination and Monitor Student Study Progress for University of South-East Asia**
+- 🔭 I’m Mobile App Dev ****
 
-- 🌱 I’m currently learning **Kotlin,Flutter**
+- 🌱 I’m currently learning ****
 
 - 💬 Ask me about **Android,Flutter**
 
-- 📫 How to reach me **tvanthey@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I think I am Easy Going**
 
